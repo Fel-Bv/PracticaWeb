@@ -1,0 +1,14 @@
+main {
+    position: relative;
+}
+
+main .card.contenedor-form {
+    position: absolute;
+    margin: auto;
+    width: 60%;
+    height: fit-content;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+}
